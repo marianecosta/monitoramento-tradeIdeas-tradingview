@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-from datetime import date
 import streamlit.components.v1 as components
 
 arquivo_csv = "database-tradingview.csv"  
